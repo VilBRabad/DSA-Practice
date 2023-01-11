@@ -6,6 +6,8 @@ Find the number of land cells in grid for which we cannot walk off the boundary 
 // TC : N x M x 4
 // SC : N x M
 
+#include<bits/stdc++.h>
+using namespace std;
 
 //********************** DFS *********************************
 
