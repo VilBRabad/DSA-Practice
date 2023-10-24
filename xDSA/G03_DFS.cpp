@@ -12,11 +12,11 @@ void dfs(int node, vector<int>graph[], vector<int> &ans, int vis[]){
     }
 }
 
-vector<int>dfsinGraph(int V, vector<int> graph[]){
-    int vis[n] = {0}; //Assuming starting point 0
-    vector<int> ans;
-    dfs()
-}
+// vector<int>dfsinGraph(int V, vector<int> graph[]){
+//     int vis[n] = {0}; //Assuming starting point 0
+//     vector<int> ans;
+//     dfs()
+// }
 
 // SC : O(n) + O(n) + O(n) = O(n)
 // TC : O(n) + O(V + 2E)
